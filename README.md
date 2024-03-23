@@ -10,4 +10,6 @@ git init
 git commit -a -m '🎉 Initial commit';
 ```
 
+hello
+
 hello world
